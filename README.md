@@ -6,7 +6,6 @@ An iOS app that allows the user to fill in Sudoku puzzles. The puzzle is created
 
 **[Spencer Kitchen](mailto:spencer.kitchen@wsu.edu)**
 
-Student ID: 11480841
 
 ## Description
 
